@@ -1,0 +1,13 @@
+Proton Canon Patch for Android 18
+Made by smhungary89
+Released 28-02-19
+
+Description: Stig87's Android 18 is one of the best known version of this character.
+It have a secret move called "l33t" which was originally designed as a suicide, joke move.
+She summons Iron Man's famous proton canon, charge it, but when she tries to fire it, it fails and explodes.
+Killing both her, and her enemy too, if it gets too close.
+The AI never use this move by default, only the player can use it.
+
+I basically modified this move, and make it as an actual hyper move, available not just for the player, but the AI too. Enjoy! :)
+
+Installation: It's easy, just extract it, and overwrite everything.
