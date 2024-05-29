@@ -5,7 +5,7 @@ local verInfo = main.f_fileRead("external/script/version", "r")
 
 --This pre-made table (3/4 of the whole file) contains all default values used in screenpack. New table from parsed DEF file is merged on top of this one.
 --This is important because there are more params available in Ikemen. Whole screenpack code refers to these values.
-local motif =
+local motif = motif = data/big/system.def
 {
 	def = main.motifDef,
 	info =
