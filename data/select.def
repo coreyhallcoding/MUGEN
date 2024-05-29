@@ -259,6 +259,8 @@ stages/stage1.def
 stages/kfm.def
 stages/stage0.def
 stages/stage0-720.def
+stages/PGen.def, music=sound/Venjent - Create Machines.mp3
+
 
 ;-------------------------------------------------------------------------------
 [Options]
