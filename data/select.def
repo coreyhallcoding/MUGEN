@@ -195,6 +195,7 @@
 
 kfmZ, stages/kfm.def
 kfm720, stages/kfm.def, order=0
+zerosvc, stages/PGen.def
 randomselect
 
 ;-------------------------------------------------------------------------------
