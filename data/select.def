@@ -266,6 +266,9 @@ stages/kfm.def, music1=sound/4-14 A・U・N 1st.mp3, music2=sound/4-15 A・U・N
 stages/stage0.def
 stages/stage0-720.def
 stages/PGen.def, music=sound/Venjent - Create Machines.mp3
+stages/Drive In At Night.def, music=sound/Drive In At Night.mp3
+stages/Secret Laboratory.def, music1=sound/2-16 Secret Laboratory Stage - Round 1 [Atlantic Ocean].mp3, music2=sound/2-17 Secret Laboratory Stage - Round 2 [Atlantic Ocean].mp3
+stages/old_temple.def, music=sound/1-06 Old Temple Stage [Japan].mp3
 
 
 ;-------------------------------------------------------------------------------
