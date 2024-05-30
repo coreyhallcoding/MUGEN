@@ -1,0 +1,22 @@
+;================================================================================================
+;===============================================================================
+;-Estados de helpers de cosas especiales.
+;===============================================================================
+;===============================================================================
+;-Estado de ayudante que desaparece las barras de vida y poder al haber ko.
+
+[Statedef 7100]
+type = S
+movetype = I
+physics = N
+anim = 7100
+
+
+
+[State 7100, AssertSpecial]
+type = AssertSpecial
+trigger1 =1
+flag = nobardisplay
+flag2= nokoslow
+
+
