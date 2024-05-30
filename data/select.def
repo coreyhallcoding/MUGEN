@@ -200,7 +200,7 @@ zerosvc, stages/PGen.def
 ssjsongoku
 piccolo
 cell
-broli, music=sound/Broly.mp3
+broli, music=sound/Broly.mp3 200
 randomselect
 
 ;-------------------------------------------------------------------------------
@@ -265,7 +265,7 @@ stages/stage1.def
 stages/kfm.def
 stages/stage0.def
 stages/stage0-720.def
-stages/PGen.def, music=sound/Venjent - Create Machines.mp3
+stages/PGen.def, music=sound/Venjent - Create Machines.mp3 200
 
 
 ;-------------------------------------------------------------------------------
