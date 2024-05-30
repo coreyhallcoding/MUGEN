@@ -30,7 +30,7 @@ stcommon		= BroliCNS.cns			;Common States
 sprite		= BroliSFF.sff			;Sprite
 anim			= BroliAIR.air			;Animation
 sound			= BroliSND.snd			;Sound
-
+music     = Broly.mp3       ;Mp3
 pal1			= Broli01.act			;Red/White: Default
 pal2			= Broli02.act			;Black
 pal3			= Broli03.act			;Blue
