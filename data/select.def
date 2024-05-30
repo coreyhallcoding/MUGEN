@@ -200,6 +200,7 @@ zerosvc, stages/PGen.def
 ssjsongoku
 piccolo
 cell
+broli, music=sound/Broly.mp3
 randomselect
 
 ;-------------------------------------------------------------------------------
