@@ -262,7 +262,7 @@ randomselect
  ;Insert your stages below.
 
 stages/stage1.def
-stages/kfm.def, music<1>=sound/4-14 A・U・N 1st.mp3, music<2>==sound/4-14 A・U・N 2nd.mp3
+stages/kfm.def, music1=sound/4-14 A・U・N 1st.mp3, music2=sound/4-15 A・U・N 2nd.mp3
 stages/stage0.def
 stages/stage0-720.def
 stages/PGen.def, music=sound/Venjent - Create Machines.mp3
