@@ -199,7 +199,7 @@ zerosvc, stages/PGen.def
 18
 ssjsongoku
 piccolo
-cell
+cell, music1=sound/1-16 BRIMSTONE & FIRE 1st.mp3, music2=sound/1-17 BRIMSTONE & FIRE 2nd.mp3
 broli, music=sound/Broly.mp3
 randomselect
 
